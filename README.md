@@ -1,27 +1,85 @@
-## Hi, I’m Sanchita
+# 👋 Hi, I’m Sanchita Kundu  
+**Data Analyst | BI Analyst | SQL, Power BI & Cloud Analytics**
 
-I’m a Data Analyst with experience building reliable, business-focused data solutions. 
-I enjoy working with SQL, Power BI, Excel, Python, Databricks, and Azure to design, develop, and maintain data infrastructure, and to turn complex data into clear, actionable insights.
+I am a data professional focused on transforming raw data into meaningful insights that support business decision making. I enjoy solving analytical problems, building structured data models, and developing interactive dashboards that communicate performance clearly and effectively.
 
-## What I Do
-- Build Power BI dashboards for business and leadership
-- Design clean data models and DAX measures
-- Work with Excel and SharePoint-based data sources
-- Focus on data quality, accuracy, and usability
-- Work with cloud-based data platforms and analytics solutions
+---
 
-## Featured Projects
-Projects will be added shortly. Currently preparing selected Power BI and data analytics work for publication.
+## 👨‍💻 About Me
 
-## Tools & Skills
-- Power BI (DAX, data modelling, incremental refresh)
-- SQL (SQL Server, PostgreSQL)
-- Python (data analysis and automation)
-- Databricks (data processing and analytics)
-- Azure (cloud data services)
-- Excel (advanced formulas, Power Query)
-- SharePoint and Microsoft 365
+- 📊 Strong foundation in SQL-based data analysis and business intelligence  
+- 📈 Experienced in Power BI dashboard development and DAX time intelligence  
+- 🐍 Working with Python for data analysis and transformation  
+- ☁ Exploring cloud data platforms including Azure and Databricks  
+- 🚀 Passionate about turning complex data into actionable insights  
 
-## Connect With Me
-- LinkedIn: https://www.linkedin.com/in/skundu97
-- Email: sanchitakundu97@yahoo.com
+---
+
+## 💼 Technical Skills
+
+### 📊 Data & Analytics
+- SQL (T-SQL)
+- Data Analysis & KPI Development
+- Exploratory Data Analysis
+- Data Modeling (Star Schema)
+- Business Intelligence Reporting
+- DAX & Time Intelligence
+
+### 🛠 Tools & Platforms
+- SQL Server  
+- Power BI Desktop  
+- Python (Pandas, data transformation)  
+- Microsoft Azure  
+- Azure Databricks  
+- Git & GitHub  
+
+---
+
+## 🚀 Expanding Skills & Learning
+
+Currently deepening knowledge in:
+
+- ETL and data pipeline development  
+- Data warehousing architecture  
+- Cloud based analytics solutions  
+- Microsoft Fabric ecosystem  
+- Scalable data transformation using Databricks  
+
+Continuously learning modern data engineering and analytics best practices to bridge the gap between data analysis and data engineering.
+
+---
+
+## 📂 Featured Project
+
+### 🔥 Aurora Cycles Sales Analytics  
+End to end sales analytics solution using SQL-based exploratory analysis and Power BI dashboards built on a structured warehouse. Delivered insights through time intelligence, customer segmentation, and product performance reporting.
+
+👉 https://github.com/SKundu97/aurora-cycles-sales-analytics
+
+---
+
+## 📊 What I Build
+
+- SQL-driven KPI analysis, complex queries, and performance-optimized reporting  
+- Query optimization and indexing strategies to improve data retrieval efficiency  
+- Interactive Power BI dashboards with executive summaries and dynamic insights  
+- Structured star schema data models optimized for analytical workloads  
+- In-depth analytical reporting including trend analysis, cohort analysis, and segmentation  
+- Forecasting and predictive analysis using Python for forward-looking business insights  
+- Insight-driven solutions focused on measurable business impact  
+
+
+---
+
+## 🧠 Always Learning
+
+I am continuously building projects and expanding my technical stack across analytics, cloud platforms, and modern data solutions.
+
+---
+
+## 📫 Connect With Me
+
+I’m open to opportunities in Data Analytics, Business Intelligence, and Cloud Analytics roles.
+
+🔗 www.linkedin.com/in/skundu97
+
